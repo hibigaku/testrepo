@@ -1,0 +1,20 @@
+DataMart
+
+
+Thinkworxs ready
+
+
+機械学習エンジンのみ
+
+
+HIPAA対応は、AWSの機能を使っていないか？
+→HSMが必要になったら、AWSではｄけいないかも？
+
+
+Transmittion　Security
+
+
+Safe Harbor Rule
+
+
+HWTrek：デバイスのマニファクチャリングのコンサルティング
