@@ -4,17 +4,17 @@ DataMart
 Thinkworxs ready
 
 
-�@�B�w�K�G���W���̂�
+機械学習エンジンのみ
 
 
-HIPAA�Ή��́AAWS�̋@�\���g���Ă��Ȃ����H
-��HSM���K�v�ɂȂ�����AAWS�ł͂������Ȃ������H
+HIPAA対応は、AWSの機能を使っていないか？
+→HSMが必要になったら、AWSではｄけいないかも？
 
 
-Transmittion�@Security
+Transmittion　Security
 
 
 Safe Harbor Rule
 
 
-HWTrek�F�f�o�C�X�̃}�j�t�@�N�`�������O�̃R���T���e�B���O
+HWTrek：デバイスのマニファクチャリングのコンサルティング
