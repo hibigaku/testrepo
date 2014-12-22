@@ -1,4 +1,4 @@
-DataMart
+﻿DataMart
 
 
 Thinkworxs ready
@@ -20,3 +20,5 @@ Safe Harbor Rule
 HWTrek：デバイスのマニファクチャリングのコンサルティング
 
 ブランチへ進む
+
+newbranchにおいて変更を追加
